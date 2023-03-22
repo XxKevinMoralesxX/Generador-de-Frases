@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "NT Fabulous";
+    src: url("NT\ Fabulous.otf");
+  }
+
+header
+  {
+    font-family: "NT Fabulous";
+    text-align: center;
+  }
+
+article
+  {
+    text-align: center;
+  }
+
+.CarlitosB img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+  }
+
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
